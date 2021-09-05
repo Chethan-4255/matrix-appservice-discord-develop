@@ -167,7 +167,3 @@ In a vague order of what is coming up next
  - [x] Webhooks (allows for prettier messages to discord)
  - [ ] VOIP (**Hard** | Unlikely to be finished anytime soon)
 
-
-## Contact
-
-My Matrix ID: [@Half-Shot:half-shot.uk](https://matrix.to/#/@Half-Shot:half-shot.uk)
